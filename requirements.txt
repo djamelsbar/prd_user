@@ -1,0 +1,6 @@
+wtforms
+flask
+flask-migrate
+flask-admin
+FlaskForm
+flask_wtf
